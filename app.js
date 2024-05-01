@@ -40,4 +40,5 @@ let resetcolor=document.querySelector("#resetbtn")
 
 resetcolor.addEventListener("click",()=>{
     document.querySelector("body").style.backgroundColor="white";
+    console.log("reseat");
 })
