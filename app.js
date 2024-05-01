@@ -16,6 +16,7 @@ redbtn.addEventListener("mouseover",()=>{
 bluebtn.addEventListener("mouseover",()=>{
 
     document.querySelector("body").style.backgroundColor="blue";
+    console.log("blue");
 })
 
 
